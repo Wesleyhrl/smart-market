@@ -4,14 +4,9 @@ O SmartMarket é um aplicativo móvel de lista de supermercado desenvolvido com 
 
 ## 📱 Demonstração
 
-Pode ver o funcionamento do aplicativo no vídeo de demonstração abaixou ou incluído neste repositório: `demo_app.mp4`.
+Assista ao vídeo de demonstração do aplicativo:
 
-<div align="center">
-  <video width="320" height="640" controls>
-    <source src="demo_app.mp4" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
-  </video>
-</div>
+**👉 [Clique aqui para ver o vídeo no Google Drive](https://drive.google.com/file/d/1ylVkAuqPM80qh48oGGw_zi83ZdIEePZW/view?usp=sharing)**
 
 ## ✨ Funcionalidades
 
